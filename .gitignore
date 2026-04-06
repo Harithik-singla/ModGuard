@@ -1,0 +1,11 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/
+models/
+logs/
+*.egg-info/
+.DS_Store

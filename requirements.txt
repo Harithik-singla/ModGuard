@@ -40,3 +40,8 @@ python-dotenv==1.0.1
 #
 ipykernel
 iterative-stratification
+streamlit
+plotly
+sqlalchemy
+streamlit-autorefresh
+redis   

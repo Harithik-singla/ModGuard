@@ -9,3 +9,7 @@ models/
 logs/
 *.egg-info/
 .DS_Store
+checkpoints/
+*.pt
+*.bin
+*.ckpt
